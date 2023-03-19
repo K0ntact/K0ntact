@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a 2nd year ICT student
+I am a 2nd year ICT student. I am interested in backend web development and computer graphics, however I am always eager to learn new topics and expand my skills.
 
 ![](https://raw.githubusercontent.com/K0ntact/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/K0ntact/github-stats/master/generated/languages.svg#gh-dark-mode-only)
