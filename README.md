@@ -1,8 +1,10 @@
 ### Hi there 👋
 I am a 2nd year ICT student. I am interested in data analyst, computer graphics and physics simulation, however I am always eager to learn new topics and expand my skills.
 
-![](https://raw.githubusercontent.com/K0ntact/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/K0ntact/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<div>
+<img align=center height=200 src="https://rmstats.delnegend.com/api?username=K0ntact&hide_rank=true&show_icons=true&theme=midnight-purple">
+<img align=center height=200 src="https://rmstats.delnegend.com/api/top-langs/?username=K0ntact&layout=compact&langs_count=10&theme=midnight-purple">
+</div>
 
 
 <!--
