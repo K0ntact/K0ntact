@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a 2nd year ICT student. I am interested in data analyst, computer graphics and physics simulation, however I am always eager to learn new topics and expand my skills.
+I am a 3rd year ICT student. I code anything i find interesting.
 
 <div>
 <img align=center height=200 src="https://rmstats.delnegend.com/api?username=K0ntact&hide_rank=true&show_icons=true&theme=midnight-purple">
