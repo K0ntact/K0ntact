@@ -1,8 +1,10 @@
 ### Hi there 👋
 I am a 3rd year ICT student. I code anything i find interesting.
 
-![](https://raw.githubusercontent.com/K0ntact/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/K0ntact/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<div>
+<img align=center height=200 src="https://grs.delnegend.com/?username=K0ntact&hide_rank=true&show_icons=true&theme=algolia">
+<img align=center height=200 src="https://grs.delnegend.com/top-langs/?username=K0ntact&layout=compact&langs_count=10&theme=algolia">
+</div>
 
 <!--
 **K0ntact/K0ntact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
