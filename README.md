@@ -3,7 +3,6 @@ I am a 3rd year ICT student. I code anything i find interesting.
 
 <div>
 <img align=center height=200 src="https://grs.delnegend.com/?username=K0ntact&hide_rank=true&show_icons=true&theme=algolia">
-<img align=center height=200 src="https://grs.delnegend.com/top-langs/?username=K0ntact&layout=compact&langs_count=10&theme=algolia">
 </div>
 
 <!--
