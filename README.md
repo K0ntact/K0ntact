@@ -1,6 +1,5 @@
-<div>
-<img align=center height=200 src="https://grs.delnegend.com/?username=K0ntact&hide_rank=true&show_icons=true&theme=algolia">
-</div>
+![](https://raw.githubusercontent.com/K0ntact/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/K0ntact/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <!--
 **K0ntact/K0ntact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
